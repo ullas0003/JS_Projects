@@ -16,8 +16,8 @@ var name = calc(5,6,function(a,b){
 console.log(name);
 
 
-function ullas (s) {
-	return s;
+function ullas (t) {
+	return t;
 }
 
 
